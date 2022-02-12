@@ -1,5 +1,19 @@
 # ERC721 101
 
+## Preview
+This is a training class from my engineering school (ESILV, Fintech specialty) which aims to teach us Solidity and improve our development skills.
+
+Most of the repository files are provided and we need to get as many points as possible in the form of ERC20 tokens. We have to pass exercises in `Evaluator.sol` to get these token points.
+
+The objective of this training class is to create a new ERC721 collection and perform some manipulations with it.
+The contract I wrote is `MyErc721contract.sol` and the `1_td_deploy.js` migration file.
+
+You can find out my contract in Rinkeby Network at : `0x01228abD0d5984d505F6b4eD1eC7364eCaAcb542`
+
+
+### ↓ Instructions below ↓
+
+
 ## Introduction
 Welcome! This is an automated workshop that will explain how to deploy an ERC721 token, and customize it to perform specific functions.
 It is aimed at developpers that have never written code in Solidity, but who understand its syntax.
